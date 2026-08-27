@@ -15,31 +15,27 @@ const siteConfig = {
   // TODO (PLACEHOLDER): replace with the real business phone number.
   // Keep phoneDisplay and phoneDial in sync — phoneDial must be digits only
   // (with a leading +country code) so the "tel:" links work correctly.
-  phoneDisplay: '+91 98765 43210',
-  phoneDial: '+919876543210',
+  phoneDisplay: '+91 80071 06430',
+  phoneDial: '+918007106430',
 
   // TODO (PLACEHOLDER): replace with the real business WhatsApp number.
   // Often the same number as phoneDial for a small business, but kept as
   // its own value in case the owner ever uses a separate WhatsApp-only
   // number. whatsappDial should be digits only, with country code, no "+".
-  whatsappDisplay: '+91 98765 43210',
-  whatsappDial: '919876543210',
+  whatsappDisplay: '+91 8007106430',
+  whatsappDial: '918007106430',
 
   // TODO (PLACEHOLDER): replace with the real business address.
-  address: 'Shop No. 4, Green Avenue Market, Nagpur, Maharashtra, India',
+  address: ' Nagpur, Maharashtra, India',
 
   // TODO (PLACEHOLDER): replace with real business hours.
   hours: [
-    { day: 'Monday \u2013 Saturday', time: '9:00 AM \u2013 8:00 PM' },
-    { day: 'Sunday', time: '10:00 AM \u2013 5:00 PM' },
+    { day: 'Monday – Sunday', time: '8:00 AM – 9:00 PM' },
   ],
 
-  email: 'hello@bloomaura.example',
+  email: 'bloomaura01@gmail.com',
 
-  socials: {
-    instagram: 'https://instagram.com/',
-    facebook: 'https://facebook.com/',
-  },
+
 };
 
 export default siteConfig;
